@@ -25,7 +25,7 @@
                 <a class="nav-link" href="web.php">Link</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Dropdown
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -54,20 +54,18 @@
                       <div class="carousel-item active">
                         <img height="500" width="150" src="https://pbs.twimg.com/profile_images/1294626103533826048/m0BsTO0B.jpg" class="d-block w-100" alt="...">
                       </div>
+                      
                       <div class="carousel-item">
-                        <img height="500" width="200" src="https://www.instagram.com/p/CERlBV4F1of/" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-bsnudco08r3igtj44duecnr7m4-20180203230738.Medi.jpeg" class="d-block w-100" alt="...">    
+                        <img height="500" width="200" src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-bsnudco08r3igtj44duecnr7m4-20180203230738.Medi.jpeg" class="d-block w-100" alt="...">    
                     </div>
                     <div class="carousel-item">
-                        <img src="https://miro.medium.com/proxy/1*VWK_hk_UuSsksK0ao_xMUQ.jpeg" class="d-block w-100" alt="...">    
+                        <img height="500" width="200" src="https://miro.medium.com/proxy/1*VWK_hk_UuSsksK0ao_xMUQ.jpeg" class="d-block w-100" alt="...">    
                     </div>
                     <div class="carousel-item">
-                        <img src="https://images.newindianexpress.com/uploads/user/imagelibrary/2018/10/8/w600X390/Fahad_Fazil.jpg" class="d-block w-100" alt="...">    
+                        <img height="500" width="200" src="https://images.newindianexpress.com/uploads/user/imagelibrary/2018/10/8/w600X390/Fahad_Fazil.jpg" class="d-block w-100" alt="...">    
                     </div>
                     <div class="carousel-item">
-                        <img src="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/mohanlal_0001_750.jpg?itok=A_IGwfvO" class="d-block w-100" alt="...">    
+                        <img height="500" width="200" src="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/mohanlal_0001_750.jpg?itok=A_IGwfvO" class="d-block w-100" alt="...">    
                     </div>
                     </div>
                   </div>
